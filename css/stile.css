@@ -1,0 +1,1446 @@
+body{
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1440px;
+    height: 3566px;
+    overflow-y: scroll;
+    
+    background: #2D2D2D;
+    
+  
+
+}
+
+.Head{
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+    padding: 4px;
+    background: #242424;
+
+    
+}
+
+
+.Titolo{
+    position: absolute;
+    width: 836px;
+    height: 83px;
+    left: 282px;
+    top: 327px;
+    
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 98px;
+    line-height: 85.2%;
+    /* or 83px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+}
+
+.Sfondo{
+   
+    position: absolute;
+    width: 1140px;
+    height: 676px;
+    left: 150px;
+    top: 101px;
+    
+    background: rgba(45, 45, 45, 0.73);
+    display: flex;
+    justify-self:center;
+    align-items: center;
+
+    
+
+
+}
+
+.TitImg{
+
+    position: absolute;
+width: 1140px;
+height: 412px;
+left: 150px;
+top: 777px;
+
+background: rgba(171, 32, 32, 0.61);
+
+}
+
+.TestoImg{
+    position: absolute;
+    width: 271px;
+    height: 65px;
+    left: 206px;
+    top: 918px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 76px;
+    line-height: 10.2%;
+
+
+    /* identical to box height, or 65px */
+    
+    display: flex;
+    
+    
+    color: #FFFFFF;
+    }
+
+.TestoImg2{
+
+    position: absolute;
+    width: 213px;
+    height: 65px;
+    left: 629px;
+    top: 918px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 76px;
+    line-height: 10.2%;
+    /* identical to box height, or 65px */
+    
+    display: flex;
+    
+    
+    color: #FFFFFF;
+}
+
+.TestoImg3{
+      
+    position: absolute;
+width: 237px;
+height: 65px;
+left: 996px;
+top: 918px;
+
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 76px;
+line-height: 10.2%;
+/* identical to box height, or 65px */
+
+display: flex;
+
+
+color: #FFFFFF;
+
+
+}
+
+.PrimaRicetta{
+    position: absolute;
+    width: 1140px;
+    height: 527px;
+    left: 150px;
+    top: 1189px;
+    
+    background: #FFFFFF;
+
+
+}
+.TitoloColazione1{
+    position: absolute;
+width: 465px;
+height: 50px;
+left: 735px;
+top: 1325px;
+
+font-family: 'Passion One';
+font-style: normal;
+font-weight: 400;
+font-size: 59px;
+line-height: 85.2%;
+/* or 50px */
+
+display: flex;
+align-items: center;
+
+
+color: #242424;
+
+
+}
+.TestoColaz1{
+margin-top: 30px;
+position: absolute;
+width: 494px;
+height: 92px;
+left: 735px;
+top: 1393px;
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* or 23px */
+
+display: flex;
+align-items: center;
+
+color: #242424;
+}
+.TestoColaz1-2{
+margin-top: 40px;
+    position: absolute;
+width: 523px;
+height: 92px;
+left: 735px;
+top: 1468px;
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* or 23px */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+.SecondaRicetta{
+    position: absolute;
+width: 1140px;
+height: 527px;
+left: 150px;
+top: 1949px;
+
+background: #FFFFFF;
+
+
+}
+.TitoloColazione2{
+ 
+    position: absolute;
+    width: 464px;
+    height: 50px;
+    left: 735px;
+    top: 2097px;
+    
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 85.2%;
+    /* or 50px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+
+
+
+}
+.TestoColaz2{
+margin-top: 45px;
+position: absolute;
+width: 419px;
+height: 69px;
+left: 735px;
+top: 2158px;
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* or 23px */
+
+display: flex;
+align-items: center;
+
+color: #242424;
+}
+.TestoColaz2-2{
+margin-top: 40px;
+position: absolute;
+width: 471px;
+height: 92px;
+left: 735px;
+top: 2238px;
+
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* or 23px */
+
+display: flex;
+align-items: center;
+
+color: #242424;
+}
+
+
+
+
+.Bottone1{
+      
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 167px;
+    height: 42.88px;
+    left: 1037px;
+    top: 1632px;
+    
+    background: #242424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+}
+.TestoBottone1{
+      
+    position: absolute;
+    width: 109px;
+    height: 23px;
+    left: 1066px;
+    top: 1630px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+
+
+
+}
+
+
+.Bottone2{
+      
+    box-sizing: border-box;
+
+position: absolute;
+width: 167px;
+height: 42.88px;
+left: 1037px;
+top: 2403px;
+
+background: #242424;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 38px;
+}
+.TestoBottone2{
+      
+position: absolute;
+width: 109px;
+height: 23px;
+left: 1066px;
+top: 2400px;
+
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* identical to box height, or 23px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+}
+
+.Citazione{
+    position: absolute;
+    width: 1140px;
+    height: 233px;
+    left: 150px;
+    top: 1716px;
+    
+    background: #AB2020;
+
+
+
+}
+.TestoCitazione{
+    position: absolute;
+width: 487px;
+height: 36px;
+left: 294px;
+top: 1815px;
+
+font-family: 'Noto Serif';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 149.7%;
+/* identical to box height, or 36px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+
+
+.Personaggio{
+    margin-top: 20px;
+position: absolute;
+width: 128px;
+height: 19px;
+left: 640px;
+top: 1849px;
+
+font-family: 'Noto Serif';
+font-style: italic;
+font-weight: 400;
+font-size: 13px;
+line-height: 149.7%;
+/* or 19px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+
+
+}
+.Citazione2{
+    position: absolute;
+    width: 1140px;
+    height: 233px;
+    left: 150px;
+    top: 2476px;
+    
+    background: #AB2020;
+
+
+}
+
+
+.TestoCitazione2{
+    position: absolute;
+    width: 657px;
+    height: 36px;
+    left: 164px;
+    top: 2568px;
+    
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 149.7%;
+    /* identical to box height, or 36px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+
+
+}
+
+
+.Personaggio2{
+    margin-top: 20px;
+    position: absolute;
+width: 102px;
+height: 19px;
+left: 704px;
+top: 2603.5px;
+
+font-family: 'Noto Serif';
+font-style: italic;
+font-weight: 400;
+font-size: 13px;
+line-height: 149.7%;
+/* or 19px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.Linea{
+    margin-top: 40px;
+    position: absolute;
+width: 57px;
+height: 0px;
+left: 820px;
+top: 1809.5px;
+
+border: 4px solid #2D2D2D;
+border-radius: 30px;
+transform: rotate(90deg);
+}
+
+.Linea2{
+    margin-top: 40px;
+    position: absolute;
+    width: 57px;
+    height: 0px;
+    left: 843px;
+    top: 2564px;
+    
+    border: 4px solid #2D2D2D;
+    border-radius: 30px;
+    transform: rotate(90deg);
+
+
+}
+
+img{
+
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+
+
+}
+
+.Immagine{
+   z-index: -1;
+  position: absolute;
+  position: absolute;
+  width: 1140px;
+  height: 676px;
+  left: 150px;
+  top: 101px;
+  
+object-fit: cover;
+
+
+}
+
+img.Img1{
+    z-index: -1;
+    position: absolute;
+width: 382px;
+height: 412px;
+left: 150px;
+top: 777px;
+object-fit: cover;
+
+}
+
+img.Img2{
+    z-index: -1;
+    position: absolute;
+    width: 396px;
+    height: 412px;
+    top:777px;
+    left:532px;
+    object-fit: cover;
+
+
+}
+
+img.Img3{
+    z-index: -1;
+    position: absolute;
+    width: 372px;
+    height: 419px;
+    top: 777px;
+    left: 918px;
+    object-fit: cover;
+
+
+}
+
+
+    
+
+.EnglishBreakfast{
+    position: absolute;
+    width: 558px;
+    height: 527px;
+    left: 150px;
+    top: 1189px;
+    object-fit: cover;
+
+}
+
+.ColazioneIraniana{
+    position: absolute;
+width: 563px;
+height: 527px;
+top: 1949px;
+left: 150px;
+object-fit: cover;
+}
+
+.ImgPersonaggio2{
+    margin-left: 30px;
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 889px;
+    top: 2500px;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+
+.ImgPersonaggio{
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 889px;
+    top: 1745px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: 30px;
+
+
+}
+.LineaTitolo{
+    margin-top: 70px;
+    position: absolute;
+    width: 541px;
+    height: 0px;
+    left: 429px;
+    top: 439px;
+    border-radius: 30px;
+    border: 3px solid #FFFFFF;
+
+
+
+
+}
+
+.BottoneTitolo{
+    margin-top:80px;
+    box-sizing: border-box;
+
+position: absolute;
+width: 183px;
+height: 47px;
+left: 629px;
+top: 468px;
+
+background: #F8F8F8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 38px;
+
+
+}
+
+.TestoBottoneTitolo{
+    z-index: 1;
+    margin-top: 80px;
+    position: absolute;
+    width: 94px;
+    height: 15px;
+    left: 673px;
+    top: 484px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150.2%;
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+}
+
+.LineaImg1{
+
+    position: absolute;
+    width: 134px;
+    height: 0px;
+    left: 274px;
+    top: 1033px;
+    
+    border: 3px solid #FFFFFF;
+    border-radius: 30px;
+
+
+}
+
+.LineaImg2{
+
+    position: absolute;
+    width: 134px;
+    height: 0px;
+    left: 668px;
+    top: 1033px;
+    
+    border: 3px solid #FFFFFF;
+    border-radius: 30px;
+
+
+}
+
+.LineaImg3{
+    position: absolute;
+    width: 134px;
+    height: 0px;
+    left: 1049px;
+    top: 1033px;
+    
+    border: 3px solid #FFFFFF;
+    border-radius: 30px;
+
+
+}
+
+.BottoneImg1{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 180px;
+    height: 42.88px;
+    left: 254px;
+    top: 1069px;
+    
+    background: #242424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+
+
+}
+
+.TestoBottoneImg1{
+    position: absolute;
+    width: 109px;
+    height: 23px;
+    left: 292px;
+    top: 1066px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+
+}
+
+.BottoneImg2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 42.88px;
+    left: 652px;
+    top: 1068px;
+    
+    background: #242424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+
+
+}
+
+.TestoBottoneImg2{
+    position: absolute;
+width: 109px;
+height: 23px;
+left: 688px;
+top: 1064px;
+
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 150.2%;
+/* identical to box height, or 23px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.BottoneImg3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 180px;
+    height: 42.88px;
+    left: 1030px;
+    top: 1068px;
+    
+    background: #242424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+}
+
+.TestoBottoneImg3{
+    position: absolute;
+    width: 109px;
+    height: 23px;
+    left: 1066px;
+    top: 1065px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+
+.RettangoloCommunity{
+
+    position: absolute;
+    width: 1140px;
+    height: 527px;
+    left: 150px;
+    top: 2709px;
+    
+    background: #FFFFFF;
+}
+
+.Nome{
+    position: absolute;
+    width: 109px;
+    height: 35px;
+    left: 854px;
+    top: 2882px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 150.2%;
+    /* identical to box height, or 35px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+}
+.LineaNome{
+    position: absolute;
+    width: 297px;
+    height: 0px;
+    left: 854px;
+    top: 2964px;
+    
+    border: 2px solid #242424;
+    border-radius: 30px;
+
+
+
+
+
+
+}
+
+
+.LineaPassword{
+    position: absolute;
+    width: 297px;
+    height: 0px;
+    left: 854px;
+    top: 3047px;
+    
+    border: 2px solid #242424;
+    border-radius: 30px;
+
+
+
+
+
+
+}
+.LineaEmail{
+
+    position: absolute;
+    width: 297px;
+    height: 0px;
+    left: 854px;
+    top: 3137px;
+    
+    border: 2px solid #242424;
+    border-radius: 30px;
+
+
+
+
+}
+
+
+
+.Password{
+    position: absolute;
+    width: 88px;
+    height: 35px;
+    left: 854px;
+    top: 2966px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 150.2%;
+    /* identical to box height, or 35px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+    
+
+
+}
+
+.Email{
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 854px;
+    top: 3057px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 150.2%;
+    /* identical to box height, or 35px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+    
+}
+
+.TitoloCommunity{
+    position: absolute;
+    width: 610px;
+    height: 100px;
+    left: 187px;
+    top: 2720px;
+    
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 85.2%;
+    /* or 50px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+
+
+}
+
+
+
+
+.RettangoloFooter{
+    position: absolute;
+    width: 1140px;
+    height: 330px;
+    left: 150px;
+    top: 3236px;
+    
+    background: #242424;
+
+
+}
+.Uovo{
+
+    position: absolute;
+    width: 257.05px;
+    height: 257.05px;
+    left: 156.54px;
+    top: 2977px;
+    
+    transform: rotate(27.71deg);
+
+
+}
+
+.BottoneCommunity{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 167px;
+    height: 42.88px;
+    left: 1037px;
+    top: 3170px;
+    
+    background: #242424;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+
+
+
+
+}
+
+.TestoBottoneCommunity{
+
+    position: absolute;
+    width: 27px;
+    height: 23px;
+    left: 1107px;
+    top: 3167px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+
+
+
+}
+
+.LineaTesto{
+
+    position: absolute;
+    width: 57px;
+    height: 0px;
+    left: 146px;
+    top: 2925px;
+    
+    border: 4px solid #2D2D2D;
+    border-radius: 30px;
+    transform: rotate(90deg);
+
+
+}
+
+.TestoCommunity{
+
+
+    position: absolute;
+    width: 318px;
+    height: 69px;
+    left: 212px;
+    top: 2886px;
+    
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+
+
+
+}
+
+.Barradiricerca{
+    z-index: 999;
+    position: fixed;
+    width: 419px;
+    height: 32px;
+    top: 37px;
+    left: 82px;
+    
+    background: #FFFFFF;
+    border-radius: 16px;
+
+
+
+
+}
+.TestoCerca{
+    z-index: 999;
+    position: fixed;
+    width: 35px;
+    height: 19px;
+    left: 125px;
+    top: 31px;
+    
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 149.7%;
+    /* or 19px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: rgba(0, 0, 0, 0.5);
+
+
+
+}
+
+.Lente{
+    z-index: 999;
+    position: fixed;
+width: 16px;
+height: 16px;
+left: 93px;
+top: 45px;
+
+background: url(magnifying-glass.png);
+
+}
+
+.Marchio{
+    z-index: 999;
+    position: fixed;
+    width: 65px;
+    height: 65px;
+    top: 15px;
+    left: 877px;
+    
+    background: url(cereal.png);
+
+
+
+}
+
+.Utente{
+    z-index: 999;
+    position: fixed;
+    width: 37px;
+    height: 37px;
+    left: 1709px;
+    top: 37px;
+    
+    background: url(user.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+}
+
+.Rettangolo1{
+    z-index: 999;
+    position: fixed;
+    width: 43px;
+    height: 8px;
+    left: 1782px;
+    top: 36px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+
+
+}
+
+.Rettangolo2{
+    z-index: 999;
+    position: fixed;
+    width: 43px;
+    height: 8px;
+    left: 1782px;
+    top: 53px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+
+
+
+}
+
+.Rettangolo3{
+    z-index: 999;
+    position: fixed;
+    width: 43px;
+    height: 8px;
+    left: 1782px;
+    top: 69px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+
+
+
+}
+
+
+.MarchioFooter{
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 187px;
+    top: 3304px;
+
+
+}
+
+.Supporto{
+    position: absolute;
+width: 77px;
+height: 32px;
+left: 427px;
+top: 3331px;
+
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150.2%;
+/* identical to box height, or 32px */
+
+display: flex;
+align-items: center;
+
+color: #929292;
+
+}
+
+.Chisiamo{
+
+    position: absolute;
+    width: 52px;
+    height: 23px;
+    left: 439px;
+    top: 3373px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.FAQ{
+    position: absolute;
+    width: 19px;
+    height: 23px;
+    left: 456px;
+    top: 3394px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+
+
+}
+
+.Lavoraconnoi{
+
+    position: absolute;
+    width: 84px;
+    height: 23px;
+    left: 423px;
+    top: 3416px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+
+}
+
+.Dovepuoitrovarci{
+
+
+    position: absolute;
+    width: 107px;
+    height: 23px;
+    left: 412px;
+    top: 3439px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+
+}
+
+.LineaScritturaEmail{
+
+    position: absolute;
+    width: 423px;
+    height: 0px;
+    left: 781px;
+    top: 3378px;
+    
+    border: 1px solid #FFFFFF;
+
+
+}
+
+.NewsLetter{
+    position: absolute;
+    width: 201px;
+    height: 23px;
+    left: 781px;
+    top: 3272px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+
+
+
+
+}
+
+.InserimentoEmail{
+    position: absolute;
+    width: 181px;
+    height: 19px;
+    left: 781px;
+    top: 3337px;
+    
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 149.7%;
+    /* or 19px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: rgba(255, 255, 255, 0.5);
+    
+
+
+
+
+}
+
+
+.BottoneFooter{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 167px;
+    height: 42.88px;
+    left: 1037px;
+    top: 3413px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 38px;
+
+
+
+}
+
+.TestoBottFooter{
+    position: absolute;
+    width: 27px;
+    height: 23px;
+    left: 1107px;
+    top: 3410px;
+    
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150.2%;
+    /* identical to box height, or 23px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #242424;
+
+
+}
